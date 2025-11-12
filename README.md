@@ -77,4 +77,3 @@ La funcionalidad completa se implementará en las siguientes fases:
 - Integración con API de chat
 - Generación de documentos
 - Persistencia de datos
-
